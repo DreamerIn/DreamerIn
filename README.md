@@ -1,7 +1,7 @@
 # ![chetan vakkalad header](https://raw.githubusercontent.com/DreamerIn/DreamerIn/main/coverpage-01.png?token=AIELENMMWM6WTAIA5FKR7X27VTPI4)
 ### Namaskaara!! 🙏🏻 
 
-My name is Chetan Vakkalad and I'm a software developer. I'm from India, living in Bengaluru and currently working at Bristlecon. 
+My name is Chetan Vakkalad and I'm a software developer. I'm from India, living in Bengaluru. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
